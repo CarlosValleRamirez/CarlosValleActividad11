@@ -20,7 +20,7 @@ console.log(mensaje.toUpperCase());
 console.log(mensaje.toLowerCase());
 
 // Quitando espacios vacios
-const texto = "    No puedes hacerte cosquillas a ti mismo   ";
+const texto = "    No puedes hacerte cosquillas a ti mismo ";
 console.log(texto);
 console.log(texto.trim());
 
